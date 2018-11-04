@@ -6,3 +6,7 @@ This is a Simple Forest Simulator Project created for CSC  323 - Object Oriented
 ***This is for learning purposes Only
 
 ****************No Plagiarism Allowed****************
+
+![Main App Screen](MainPage.png)
+
+![Settings Screen](SettingsPage.png)
